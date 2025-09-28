@@ -1,0 +1,18 @@
+📊 Obesity Level Dataset – Statistical Analysis
+This project explores the Obesity Level Dataset using statistical hypothesis testing techniques to analyze relationships between different features and obesity levels. The goal is to apply classical statistical methods to understand whether significant differences exist across groups.
+
+🔍 Methods Applied
+T-Test (Equal Variances) → To compare means between two groups under the assumption of equal variances.
+T-Test (Unequal Variances / Welch’s T-Test) → To compare group means without assuming equal variances.
+One-Way ANOVA (Single Factor) → To determine if there are statistically significant differences between the means of more than two groups.
+
+📌 Key Insights
+Assessed whether variables such as eating habits, activity levels, and demographic features show statistically significant differences across obesity categories.
+Compared multiple groups to understand which factors most strongly influence obesity classification.
+
+⚙️ Tech Stack
+Python (NumPy, Pandas, SciPy, Statsmodels, Matplotlib/Seaborn for visualization)
+Statistical Inference techniques for hypothesis testing
+Extend analysis with Chi-Square Test for categorical variables.
+Build predictive models (ML/DL) to classify obesity levels.
+Perform correlation analysis & regression modeling for deeper insights.
